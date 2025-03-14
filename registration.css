@@ -18,8 +18,7 @@ label {
 input,
 textarea {
   padding: 10px;
-  margin-bottom: 15px;
-  width: calc(100% - 130px);
+  width: 350px;
 }
 
 input[type="radio"] {
@@ -27,16 +26,17 @@ input[type="radio"] {
   margin-right: 5px;
 }
 
-textarea {
-  resize: vertical;
+#gender{
+  padding-right: 50px;
 }
+
 
 .form div {
   margin-bottom: 15px;
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 10px;
+  gap: 20px;
 }
 
 .btn {
