@@ -1,44 +1,44 @@
 .form {
-    background-color: #ebebeb;
-    width: 450px;
-    padding: 20px;
-    margin: auto;
-    margin-top: 30px;
-    border-radius: 5px;
+  background-color: #ebebeb;
+  width: 450px;
+  padding: 20px;
+  margin: auto;
+  margin-top: 30px;
+  border-radius: 5px;
 }
 
 h2 {
-    text-align: center;
+  text-align: center;
 }
 
 label {
-    width: 120px;
+  width: 120px;
 }
 
 input,
 textarea {
-    padding: 10px;
-    margin-bottom: 15px;
-    width: calc(100% - 130px); 
+  padding: 10px;
+  margin-bottom: 15px;
+  width: calc(100% - 130px);
 }
 
 input[type="radio"] {
-    width: auto;
-    margin-right: 5px;
+  width: auto;
+  margin-right: 5px;
 }
 
 textarea {
-    resize: vertical;
+  resize: vertical;
 }
 
 .form div {
-    margin-bottom: 15px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap:10px;
+  margin-bottom: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
 }
 
-.btn{
-    margin: auto;
+.btn {
+  margin: auto;
 }
